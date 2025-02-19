@@ -10,7 +10,7 @@
 - 🌐 Fully hosted and accessible at [voguenest.fashion](https://voguenest.fashion/)  
 
 ## 📸 Demo  
-Visit the live version here: **[SmartStyle Demo](https://voguenest.fashion/)**  
+Visit the live version here: **[SmartStyle Demo](https://codepen.io/Susan-WThorpe/pen/qEBbXvX)**  
 
 ## 🛠️ Technologies Used
 - **HTML** → Webpage structure  
@@ -33,7 +33,7 @@ smartstyle/ │── index.html # Main HTML file │── styles.css # CSS sty
 
 ## 🔗 Live Access  
 Experience **SmartStyle** directly at:  
-👉 **[https://voguenest.fashion/](https://voguenest.fashion/)**  
+👉 **[https://voguenest.fashion/](https://voguenest.fashion/find-your-perfect-hairstyle/)**  
 
 ## 🤝 Contributing  
 Suggestions and contributions are welcome!  
