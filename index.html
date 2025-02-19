@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hairstyle Suggester</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Find Your Perfect Hairstyle!</h2>
+        
+        <div class="question">
+            <label>What’s your hair length?</label>
+            <select id="hairLength">
+                <option value="short">Short</option>
+                <option value="medium">Medium</option>
+                <option value="long">Long</option>
+            </select>
+        </div>
+        
+        <div class="question">
+            <label>What’s your hair texture?</label>
+            <select id="hairTexture">
+                <option value="straight">Straight</option>
+                <option value="wavy">Wavy</option>
+                <option value="curly">Curly</option>
+                <option value="coily">Coily</option>
+            </select>
+        </div>
+
+        <div class="question">
+            <label>What’s your preferred style?</label>
+            <select id="stylePreference">
+                <option value="casual">Casual</option>
+                <option value="elegant">Elegant</option>
+                <option value="bold">Bold</option>
+                <option value="romantic">Romantic</option>
+                <option value="edgy">Edgy</option>
+            </select>
+        </div>
+        
+        <button onclick="suggestHairstyle()">Get Suggestion</button>
+        <p id="result"></p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
